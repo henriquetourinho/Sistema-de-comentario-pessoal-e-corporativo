@@ -72,11 +72,11 @@ Este projeto é um formulário de contato completo, com campos dinâmicos que se
 
 ### 1. Pré-requisitos
 - **Servidor Web com PHP:** Você precisa de um servidor local ou remoto que suporte PHP (exemplo: XAMPP, WAMP, LAMP ou servidor web configurado com Apache/Nginx).
-- **Navegador Moderno:** Acesse o formulário via qualquer navegador moderno (Chrome, Firefox, Edge).
+- **Navegador Moderno:** Acesse o formulário via qualquer nav-egador moderno (Chrome, Firefox, Edge).
 
 # Contato
-**Desenvolvedor:** Carlos Henrique Tourinho Santana
-**E-mail:** chts@i324.com.br
+-**Desenvolvedor:** Carlos Henrique Tourinho Santana.
+-**E-mail:** chts@i324.com.br.
 
 
 
