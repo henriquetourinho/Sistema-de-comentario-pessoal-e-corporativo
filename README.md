@@ -1,4 +1,4 @@
-# Sistema-de-comentario-pessoal-e-corporativo# Formulário de Contato Responsivo e Dinâmico
+# Formulário de Contato Responsivo e Dinâmico
 
 Este projeto é um formulário de contato completo, com campos dinâmicos que se ajustam conforme o tipo de pessoa selecionada (Pessoa Física ou Pessoa Jurídica). Ele utiliza tecnologias modernas para garantir uma interface responsiva e fácil de usar em diferentes dispositivos, além de um back-end robusto em PHP para processar os dados.
 
